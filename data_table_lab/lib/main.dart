@@ -42,7 +42,7 @@ class _CarTablePageState extends State<CarTablePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Lab 05: Exercise A'),
+        title: const Text('Bottom Navigation Bar - Feature Branch'),
         backgroundColor: Colors.blue,
         foregroundColor: Colors.white,
       ),
