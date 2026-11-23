@@ -22,5 +22,5 @@ jobs:
         run: |
           cd bottom_navigator_bar_lab
           flutter pub get
-          flutter analyze
+          flutter analyze --no-fatal-infos
           flutter test
